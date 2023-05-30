@@ -1,4 +1,4 @@
-import 'package:bloc_sample/business_logic.dart';
+import 'package:bloc_sample/home_page.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatelessWidget {

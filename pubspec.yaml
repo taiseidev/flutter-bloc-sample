@@ -17,6 +17,9 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
+  flutter_bloc: ^8.1.3
+  # 同じ状態地を持つインスタンスを同一とみなすパッケージ
+  equatable: ^2.0.5
 
 flutter:
   uses-material-design: true

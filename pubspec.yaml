@@ -20,6 +20,7 @@ dev_dependencies:
   flutter_bloc: ^8.1.3
   # 同じ状態地を持つインスタンスを同一とみなすパッケージ
   equatable: ^2.0.5
+  uuid: ^3.0.7
 
 flutter:
   uses-material-design: true

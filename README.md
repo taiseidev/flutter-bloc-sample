@@ -1,16 +1,12 @@
 # bloc_sample
 
-A new Flutter project.
+flutter_blocを使ったTODDOアプリ
 
-## Getting Started
+## 要件定義
+- 機能の要件を洗い出す。
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+・ユーザーは新しいTodoを作成できる
+・ユーザーは既存のTodoの詳細を表示できる
+・ユーザーは既存のTodoを編集できる
+・ユーザーは既存のTodoを削除できる
+・ユーザーはTodoの一覧を表示できる

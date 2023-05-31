@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:bloc_sample/business_logic.dart';
+import 'package:bloc_sample/practice/business_logic.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {

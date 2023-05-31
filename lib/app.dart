@@ -1,4 +1,4 @@
-import 'package:bloc_sample/bloc/counter_page.dart';
+import 'package:bloc_sample/ui/todo_list/todo_list_page.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatelessWidget {
@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const CounterPage(),
+      home: const TodoListPage(),
     );
   }
 }
